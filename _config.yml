@@ -39,7 +39,7 @@ compress_html:
 
 
 # jekyll-assets
-_assets:
+assets:
   compress:
     js: true
     css: true
