@@ -41,8 +41,8 @@ compress_html:
 # jekyll-assets
 assets:
   compress:
-    js: true
-    css: true
+    js: false
+    css: false
 
   assets:
     - "*.png"
