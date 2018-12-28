@@ -1,8 +1,8 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-# permalink:           pretty
-  permalink:           /blog/:categories/:year/:month/:day/:title.html
+permalink:           pretty
+permalink:           /blog/:categories/:year/:month/:day/:title.html
 
 # Setup
 title:               Sajal Sharma
